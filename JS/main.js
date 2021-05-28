@@ -45,7 +45,7 @@ function cargarDatos(productos, articulos) {
 
 function generarHtmlProducto(producto) {
   var html = `<div class="col-sm col-md-6 col-xl-3 bot1">
-    <img src="${producto.imagen}" width="150" height="300">
+    <img src="${producto.imagen}" width="150" height="180">
     <div class="description">
       <div class="product-name">
       ${producto.nombre}
