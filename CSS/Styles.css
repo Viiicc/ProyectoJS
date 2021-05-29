@@ -268,7 +268,7 @@ input {
 .agregar {
   height: 50px;
   width: 110px;
-  background-color: rgb(43, 42, 41);
+  background-color: black;
   color: rgb(243, 217, 132);
   padding-bottom: 5px;
   margin-top: 10px;
@@ -282,7 +282,6 @@ input {
   background-color: black;
   color: rgb(243, 217, 132);
   margin-top: 4px;
-  box-shadow: rgb(66, 70, 66);
   border-radius: 5px;
   font-weight: bold;
 }
