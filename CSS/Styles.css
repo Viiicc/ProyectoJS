@@ -358,14 +358,16 @@ input {
 }
 
 .finalizar {
-  height: 80px;
-  background-color: rgb(43, 42, 41);
+  height: 50px;
+  width: fit-content;
+  background-color: black;
   color: rgb(243, 217, 132);
   padding-bottom: 5px;
   margin-top: 10px;
   box-shadow: rgb(243, 217, 132);
-  border-radius: 8px;
+  border-radius: 5px;
   font-weight: bold;
+  font-size: medium;
 }
 
 .form-cliente {
