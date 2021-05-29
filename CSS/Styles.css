@@ -366,7 +366,7 @@ input {
   box-shadow: rgb(243, 217, 132);
   border-radius: 5px;
   font-weight: bold;
-  font-size: medium;
+  font-size: 50%;
 }
 
 .form-cliente {
